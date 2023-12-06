@@ -1,0 +1,19 @@
+{
+  "name": "u2-discography",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.148.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-glsl": "^2.8.2",
+    "parcel": "^2.8.2"
+  }
+}
